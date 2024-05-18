@@ -1,0 +1,7 @@
+﻿  Matris Ödevi.cpp
+C:\Users\alisa\source\repos\Matris Ödevi\Matris Ödevi\Matris Ödevi.cpp(166,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alisa\source\repos\Matris Ödevi\Matris Ödevi\Matris Ödevi.cpp(173,23): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alisa\source\repos\Matris Ödevi\Matris Ödevi\Matris Ödevi.cpp(184,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alisa\source\repos\Matris Ödevi\Matris Ödevi\Matris Ödevi.cpp(191,23): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\alisa\source\repos\Matris Ödevi\Matris Ödevi\Matris Ödevi.cpp(336,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Matris Ödevi.vcxproj -> C:\Users\alisa\source\repos\Matris Ödevi\Debug\Matris Ödevi.exe
